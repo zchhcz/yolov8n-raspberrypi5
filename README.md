@@ -104,6 +104,9 @@ python yolo_detector_client.py   --model yolov8n.pt   --source picamera   --reso
 
 本项目从构思到实现为一人单独完成,可能有部分地方做的不是很好,后面可能会出一个演示视频,写了好久的文档不想写了,当把懒狗先
 
+
+第一次上传项目,不知道文件大小也有限制,打包好的主机端我之后我看一下会换成别的形式上传,先用py文件凑合一下吧
+
 对你有帮助的话给个star吧,给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star
 
 <img width="619" height="459" alt="C7399065{ 31W}I{ES 1~I5" src="https://github.com/user-attachments/assets/99b7a523-b16a-49ec-983b-fd224f2b7af2" />
