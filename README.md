@@ -4,13 +4,6 @@
 
 这是基于yolov8n,树莓派5的PCB缺陷检测系统,从树莓派调用摄像头,经过树莓派推理后能将推理后的图片,数据等传输至局域网下的另一台主机,从而缓解工厂流水线高强度人力劳作等场景
 
-这是本人上传至github的第一个项目,不喜勿喷,我有玉米症,叠个甲:
-
-本科毕设级水准!
-本科毕设级水准!
-本科毕设级水准!
-
-那就是水
 
 各个方面都有很大的提升空间,参考了很多b站上的视频,部分命令或方式可能有雷同,若你有更好的想法或者改进欢迎联系我,邮箱:kexuehe1i@foxmail.com,如果对你有帮助的话请点一颗stars,非常感谢!
 
@@ -102,10 +95,6 @@ python yolo_detector_client.py   --model yolov8n.pt   --source picamera   --reso
 
 主机端能实现直接对数据进行增删改查,实时远程监控保存数据等,记得选择文件路径,不然有些功能可能用不了,项目有些地方可能会有些bug,我没全测试出来,接下来就可以直接对其进行使用了
 
-本项目从构思到实现为一人单独完成,可能有部分地方做的不是很好,后面可能会出一个演示视频,写了好久的文档不想写了,当把懒狗先
-
-
-第一次上传项目,不知道文件大小也有限制,打包好的主机端我之后我看一下会换成别的形式上传,先用py文件凑合一下吧
 
 对你有帮助的话给个star吧,给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star给个star
 
